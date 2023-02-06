@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "es5",
     "module": "esnext",
-    "baseUrl": "./",
+    "baseUrl": "/projects/form-validation/",
     "moduleResolution": "node",
     "paths": {
       "@/*": [
